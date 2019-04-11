@@ -27,4 +27,9 @@ TBD
 
 # Ticket Prices
 
-Extra cost for training courses, admission included with training pass.
+TBD
+
+# Dates
+
+CFP: TBD
+CFP responses: TBD
