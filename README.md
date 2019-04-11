@@ -8,7 +8,7 @@ Plans for west Maui April 2020
 
 | Monday| Tuesday | Wednesday | Thursday | Friday |
 |---|---|---|---|---|
-| `N` training workshops.  | `N` training workshops<br> Early vendor load in<br> Speaker A/V practice time<br> Reception :money_with_wings:  | Conference<br> Day care :money_with_wings:<br> Speaker's dinner :money_with_wings:  | Conference<br> Day care :money_with_wings:<br> Social event :money_with_wings:  | Conference<br> optional activities (job fair, CTF, free workshops, etc)  |
+| `N` training workshops.  | `N` training workshops<br> Early vendor load in<br> Speaker A/V practice time<br> Reception :money_with_wings:  | Conference<br>Daycare :money_with_wings:<br> Speaker's dinner :money_with_wings:  | Conference<br> Day care :money_with_wings:<br> Social event :money_with_wings:  | Conference<br>Daycare :money_with_wings:<br> optional activities (job fair, CTF, free workshops, etc)  |
 
 # Areas being considered
 
